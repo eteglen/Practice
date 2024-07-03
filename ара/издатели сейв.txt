@@ -1,0 +1,15 @@
+ROCKSTAR_GAMES GTA_5 19 2399 2013_09_17
+Team17 Blasphemous 2 999 2019_09_10
+Capcom Resident_Evil_2 26 2199 2019_01_25
+Gunfire_Games Remnant_2 2 2869 2023_07_25
+РедРуинс_Софтворкс Брэсидж 1 990 2021_02_25
+Мандфиш Atomic_heart 13 2299 2023_02_21
+Facepunch_Studios Rust 2 900 2018_02_08
+Unknown_Worlds Subnautica 5 789 2018_01_23
+Team_cherry Hollow_knight 2 1100 2017_02_24
+Айрон_Гейт Вальхейм 11 435 2021_02_02
+Mobius_Digital Outer_Wilds 7 10500 2020_06_18
+Bethesda Doom_Eternal 5 1999 2020_03_20
+Crytek Hunt_showdown 3 999 2019_08_27
+FromSoftware Sekiro 10 1199 2019_03_22
+Studio_FOW Subverse 5 1900 2021_03_26
